@@ -1,0 +1,59 @@
+.ul-product-detail__features ul{
+    
+}
+.ul-product-detail__features ul li{
+   list-style: none;
+   margin: 8px 0;
+}
+.ul-counter-cart .btn-group {
+   display: flex;
+   align-items: center;
+}
+.ul-counter-cart .btn-group .btn{
+ padding: 0px!important;
+ border: 0;
+ background-color: transparent;
+ margin: 0px 14px;
+} 
+ul.gull-pagination li {
+   margin: 0 12px;
+ }
+ 
+ ul.gull-pagination li .page-link {
+   border-radius: 50% !important;
+   border-color: #fff !important;
+ }
+ .page-link:hover {
+   background-color: #fff;
+ }
+ .page-link:focus {
+   box-shadow: 0 0 0 0.2rem rgb(255, 255, 255);
+ }
+ .page-item.disabled .page-link {
+   color: #d5d0d9;
+ }
+
+ 
+.card-barcode {
+	width: 8.25in;
+	height: 100%;
+	display: block;
+	margin: 10px auto;
+	padding: 0.1in 0 0 0.1in;
+	page-break-after: always;
+}
+
+.barcode-item {
+	width: 2.48in;
+	height: 208px;
+	margin-left: 0.079in;
+	padding-top: 0.05in;
+	display: block;
+	overflow: hidden;
+	text-align: center;
+	border: 1px dotted #CCC;
+	font-size: 12px;
+	line-height: 14px;
+	text-transform: uppercase;
+	float: left;
+} 
